@@ -8,7 +8,7 @@ ORCA-EvOp is a general framework developed for the optimization of Optimal Recip
 ## How to run the code
 To run the code, once the repository is downloaded and installed, it is necessary to install all the dependecies through [pip](https://pip.pypa.io/en/stable/).
 Once the dependecies are installed and the parameters are set accordingly to the needs, navigate with the command line to the folder where the code is contained and run the following:
-'''shell
+```shell
 python collision_avoidance_EC_scenario*x*.py
-'''
+```
 where instead of *x* there will be the number of the scenario you want to optimize.

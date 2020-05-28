@@ -11,4 +11,4 @@ Once the dependecies are installed and the parameters are set accordingly to the
 ```shell
 python collision_avoidance_EC_scenario*x*.py
 ```
-where instead of *x* there will be the number of the scenario you want to optimize.
+where instead of \*x\* there will be the number of the scenario you want to optimize.
